@@ -6,7 +6,7 @@ You will need the following things before we start
 * Raspberry Pi Model B, or B+
 * Minimum 8Gb class 10SD card, but I recommend a 16Gb Note: You may even get away with a 4GB card but I recommend against it
 * Monitor, keyboard and mouse to plug into the Pi for Initial setup (Not needed after setup is complete
-* You need to read up on your router and find out how to make it statically assign an IP address to the Raspberry Pi and how to set up port forwarding on it for both inbound and outbound traffic on port 9336
+* You need to read up on your router and find out how to make it statically assign an IP address to the Raspberry Pi and how to set up port forwarding on it for both inbound and outbound traffic on port 9887
 * You need to be able to SSH from your main computer to the PI to check it. If you have never done this before you will need to download and install Putty from here http://www.putty.org/
 * To use Putty just start it and enter the IP address your router has assigned the Pi and make sure port 22 is entered into the port field
 * To work out what IP address your router has assigned the Pi you can either open up lxterminal when the pi first booted up and type in ifconfig and it will give you the Pi’s IP address or you can get this by logging into your router

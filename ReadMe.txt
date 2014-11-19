@@ -103,4 +103,8 @@ sudo /etc/init.d/ufocoin start
 You will be prompted for user pi password deatils before it will start and if it doesn't start will give you an error message
 explaining why.
 
+If you feel like Donating 
+UFO address C7NbYUFc5wbQ4crLxf3y4U21qnyPShEE22
+Feathercoin Address 6ihSh7xDnnwLJqKVAKZetTqzttxbSrnaLJ
+BTC 1BVrSYL1q972Qc6HMXYpWFvLPdCWVjEfcx
 

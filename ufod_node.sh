@@ -28,7 +28,7 @@ echo configuring ufw...
 echo Opening up Port 22 TCP for SSH
 sudo ufw allow 22/tcp
 echo opening up Port 9887 for UFOcoin
-sudo ufw allow 9336/tcp
+sudo ufw allow 9887/tcp
 sudo ufw status verbose
 sudo ufw --force enable
 

@@ -42,10 +42,10 @@ cd UFO_RaspBerry_Pi_Full_Node/
 
 We now need to make the script executable by typing
 
-sudo chmod 755 ufo_node.sh
+sudo chmod 755 ufod_node.sh
 
 Now we need to start the install script by typing.
-./ufo_node.sh
+./ufod_node.sh
 
 
 This will 

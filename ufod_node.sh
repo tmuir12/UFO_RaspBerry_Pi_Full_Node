@@ -86,7 +86,7 @@ sudo mv /home/pi/UFO_RaspBerry_Pi_Full_Node/ufocoin /etc/init.d
 cd /etc/init.d
 sudo chmod 755 ufocoin
 
-sudo update-rc.d ufo defaults
+sudo update-rc.d ufocoin defaults
 
 cd /home/pi/.ufo
 

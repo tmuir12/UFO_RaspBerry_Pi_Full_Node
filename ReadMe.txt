@@ -36,9 +36,9 @@ To Download everything off github onto your Pi use the following command
 
 sudo git clone https://github.com/tmuir12/UFO_RaspBerry_Pi_Full_Node
 
-Now enter the directory UFO_Raspberry_Pi_Full_Node
+Now enter the directory UFO_RaspBerry_Pi_Full_Node
 
-cd UFO_Raspberry_Pi_Full_Node/
+cd UFO_RaspBerry_Pi_Full_Node/
 
 We now need to make the script executable by typing
 

@@ -57,7 +57,7 @@ This will
 
 You are now on the home stretch.
 
-You now need to log into your router and statically assign the IP address to the Pi and enable port forwarding to this IP address both inbound and outbound on port 9336.
+You now need to log into your router and statically assign the IP address to the Pi and enable port forwarding to this IP address both inbound and outbound on port 9887.
 You will need to read your router's manual to find out how to do this.
 
 Once you have set up your router its time to test it.

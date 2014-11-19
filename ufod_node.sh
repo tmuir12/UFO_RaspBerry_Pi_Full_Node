@@ -82,7 +82,7 @@ echo "server=1" >> ~/.ufo/ufo.conf
 echo "maxconnections=100" >> ~/.ufo/ufo.conf
 
 echo moving start script for ufod to /etc/init.d
-sudo mv /home/pi/UFO_Raspberry_Pi_Full_Node/ufo /etc/init.d
+sudo mv /home/pi/UFO_RaspBerry_Pi_Full_Node/ufo /etc/init.d
 cd /etc/init.d
 sudo chmod 755 ufo
 sudo chmod 755 ufo
